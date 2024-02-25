@@ -1,0 +1,10 @@
+<resources>
+    <string
+        name="app_name">Android1
+        first_pic = "https://dodopizza-a.akamaihd.net/static/Img/Products/11ee901d1c0a73f39a81e89f3c1f0c2f_292x292.webp"
+        sec = "https://dodopizza-a.akamaihd.net/static/Img/Products/5901c998d4054941b54c541ff036d96b_292x292.webp"
+        third = "https://dodopizza-a.akamaihd.net/static/Img/Products/16c818e33aab41e8b7dd96a76938bd00_292x292.webp"
+
+    </string>
+
+</resources>
